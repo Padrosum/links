@@ -10,3 +10,4 @@ Faydalı, Eğitici ya da İşe yarar link indexi.
 * https://www.youtube.com/watch?v=nAQeuPSB_qo - Gnu/Linux / Unix İlişkisine dair Kısa bir Tarihçe Videosu.
 * https://www.youtube.com/watch?v=p0KKBmfiVl0 - Bash Scripting yazım Tüyosu.
 * https://youtu.be/jNGECtl-8Co?si=Ule8shheibgtYSCz&t=177 - Linux Hakkında Hap Bilgi ve Yazılım için Gerekli mi Sorusuna Cevap.
+* https://www.youtube.com/watch?v=CrJdXX8HZts - Neredeyse Tarafsız bir W - Gnu/Linux karşılaştırması.
